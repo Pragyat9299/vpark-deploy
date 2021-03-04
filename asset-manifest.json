@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/vpark-deploy/static/css/main.bc878b4e.chunk.css",
+    "main.js": "/vpark-deploy/static/js/main.8789e1ea.chunk.js",
+    "main.js.map": "/vpark-deploy/static/js/main.8789e1ea.chunk.js.map",
+    "runtime-main.js": "/vpark-deploy/static/js/runtime-main.c6607839.js",
+    "runtime-main.js.map": "/vpark-deploy/static/js/runtime-main.c6607839.js.map",
+    "static/css/2.fabbef47.chunk.css": "/vpark-deploy/static/css/2.fabbef47.chunk.css",
+    "static/js/2.80237871.chunk.js": "/vpark-deploy/static/js/2.80237871.chunk.js",
+    "static/js/2.80237871.chunk.js.map": "/vpark-deploy/static/js/2.80237871.chunk.js.map",
+    "index.html": "/vpark-deploy/index.html",
+    "static/css/2.fabbef47.chunk.css.map": "/vpark-deploy/static/css/2.fabbef47.chunk.css.map",
+    "static/css/main.bc878b4e.chunk.css.map": "/vpark-deploy/static/css/main.bc878b4e.chunk.css.map",
+    "static/js/2.80237871.chunk.js.LICENSE.txt": "/vpark-deploy/static/js/2.80237871.chunk.js.LICENSE.txt",
+    "static/media/andriod.1cfb56be.jfif": "/vpark-deploy/static/media/andriod.1cfb56be.jfif",
+    "static/media/app.04ce88a7.jfif": "/vpark-deploy/static/media/app.04ce88a7.jfif",
+    "static/media/digital.70cdd6d9.jfif": "/vpark-deploy/static/media/digital.70cdd6d9.jfif",
+    "static/media/marketing.513d8cd9.jfif": "/vpark-deploy/static/media/marketing.513d8cd9.jfif",
+    "static/media/web.ec4b1a3d.jfif": "/vpark-deploy/static/media/web.ec4b1a3d.jfif",
+    "static/media/xx.88bd9e52.jpg": "/vpark-deploy/static/media/xx.88bd9e52.jpg",
+    "static/media/yy.214930df.jpg": "/vpark-deploy/static/media/yy.214930df.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6607839.js",
+    "static/css/2.fabbef47.chunk.css",
+    "static/js/2.80237871.chunk.js",
+    "static/css/main.bc878b4e.chunk.css",
+    "static/js/main.8789e1ea.chunk.js"
+  ]
+}
